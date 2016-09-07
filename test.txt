@@ -1,0 +1,2 @@
+{"beaconId":"DB000301","rssi":-59,"type":"ID"}
+
