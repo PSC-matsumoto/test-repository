@@ -1,2 +1,3 @@
 {"beaconId":"DB000301","rssi":-59,"type":"ID"}
 
+テスト追記 masterに対して修正
